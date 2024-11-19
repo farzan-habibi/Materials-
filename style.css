@@ -23,7 +23,7 @@ main{
 nav{
     /* background-color: white; */
     padding : 40px 40px;
-    color:antiquewhite;
+    color:#1d1716;
     
     
 
@@ -84,7 +84,7 @@ nav a{
 .animated-link {
     display: inline-block;
     font-size: 20px;
-    color: antiquewhite;
+    color: #1d1716;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -92,7 +92,7 @@ nav a{
 /* Hover effect: bounce animation */
 .animated-link:hover {
     animation: bounce 0.5s;
-    color: #f3bc77;
+    color:#1d1716;
 }
 
 /* Periodic pulse animation */
