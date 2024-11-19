@@ -93,7 +93,7 @@ nav a{
 /* Hover effect: bounce animation */
 .animated-link:hover {
     animation: bounce 0.5s;
-    color:#1d1716;
+    color: #1d1716;
 }
 
 /* Periodic pulse animation */
@@ -250,7 +250,8 @@ footer{background-color: #000000;
     background-color: #f3bc77; /* Dark background color */
     color: #1d1716; /* Text color */
     padding: 10px 0;
-    font-size: 14px;
+    font-size: 16px;
+    font-weight: 700;
     font-family:"Edu VIC WA NT Beginner";
     display: flex;
     justify-content: center;
